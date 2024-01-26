@@ -30,7 +30,7 @@ export const resources: IResourceItem[] = [
     list: "/companies",
     show: "/companies/:id",
     create: "/companies/new",
-    edit: "/companies/edit/:id",
+    edit: "/companies/edit/:id ",
     meta: {
       label: "Companies",
       icon: <ShopOutlined />,
